@@ -2,6 +2,8 @@
 
 This project is an ERP (Enterprise Resource Planning) system developed to assist businesses in effectively managing their management and production processes. Our project includes various modules to support essential functions such as inventory management, customer relations, order tracking, production operations, and reporting.
 
+(This project was made by following Yasin Taşdemir's Management and Production Software course with C# & SQL Server on Udemy.)
+
 ## Features
 
 The project includes the following modules:
